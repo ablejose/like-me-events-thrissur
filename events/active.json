@@ -1,0 +1,39 @@
+{
+  "slug": "like-me-events-thrissur",
+  "name": "Like ME Events",
+  "shortName": "Like ME",
+  "descriptor": "Event Management",
+  "address": "Raff tower, Koorkenchery, Thrissur, Keralam 680007",
+  "area": "Koorkenchery",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680007",
+  "geo": {
+    "lat": 10.5040187,
+    "lng": 76.2111202
+  },
+  "mapsLink": "https://maps.google.com/?cid=9958816035850841083",
+  "phone": "+91 96565 17731",
+  "whatsapp": "919656517731",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "name": "ANU.K.R",
+      "rating": 5,
+      "quote": "Thank you so much Like me events for make our big day"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://like-me-events-thrissur.vercel.app"
+}
